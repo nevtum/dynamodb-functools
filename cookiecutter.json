@@ -1,0 +1,7 @@
+{
+  "module_folder_name": "caching",
+  "table": {
+    "key_name": "key",
+    "ttl_name": "ttl"
+  }
+}
